@@ -4,5 +4,5 @@ This project implements the **SAP-1 (Simple As Possible-1)** computer using **Lo
 ## Features
 - Control signal generation using **truth tables** and **combinational circuits**.
 - No ROM-based microprogramming, making the design more hardware-efficient.
-- Implements core SAP-1 instructions like **LDA, ADD, SUB, OUT**.
+- Implements core SAP-1 instructions like **LDA, ADD, SUB, OUT, HLT**.
 - Developed using **Logisim** for digital circuit simulation.
